@@ -1,6 +1,7 @@
 # QTAF 
 
-[![Build Status](https://travis-ci.org/Tencent/QTAF.svg?branch=master)](https://travis-ci.org/Tencent/QTAF) 
+[![Build Status](https://travis-ci.org/Tencent/QTAF.svg?branch=master)](https://travis-ci.org/Tencent/QTAF) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Feeelin%2FQTAF.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Feeelin%2FQTAF?ref=badge_shield)
+
 [![PyPi version](https://img.shields.io/pypi/v/qtaf.svg)](https://pypi.python.org/pypi/qtaf/) 
 [![GitHub tag](https://img.shields.io/github/tag/Tencent/QTAF.svg)](https://GitHub.com/Tencent/QTAF/tags/)
 
@@ -69,3 +70,7 @@ TUIA (Tencent UI Automation)是UI自动化基础库，为QTA各个平台下的�
 欢迎加入QQ群（432699528）交流使用和反馈
 
 ![image](https://github.com/Tencent/QTAF/blob/master/docs/misc/qq_group.png)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Feeelin%2FQTAF.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Feeelin%2FQTAF?ref=badge_large)
